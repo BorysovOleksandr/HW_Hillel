@@ -1,0 +1,16 @@
+.full {
+  display: grid;
+  grid-template-columns: 1fr 6fr;
+}
+
+.left-side {
+  position: initial;
+  background-color: aqua;
+  padding: 20px;
+}
+.right-side {
+  position: initial;
+  background-color: aquamarine;
+  padding: 20px;
+  width: 50%;
+}
